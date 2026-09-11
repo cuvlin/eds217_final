@@ -13,3 +13,15 @@ All three group members had an interest in ecology, oceanopgraphy, and wildlife.
 
 We chose this dataset becuase it was clear, concise, and relatively clean. The dataset definitely did require some cleaning but it was overall a very presentable dataset.
 
+# Questions and Claims
+Question 1:
+Does the amount of California shark attack incidents increase or decrease over time?
+We believe that shark incidents in Califonria will increase over time. The time frame for this time series is 72 years, whihc encapsuualtes a lot of modern global ocean warming. As the ocean warms, shark migration patterns change and we see more atacks as they travel and linger nearshore.
+
+Question 2:
+How does the number of shark incidents correspond to certain shark species and how does the severity of the injury associate with the aquatic activity and shark species.
+We found that the white shark species was responsible for more than 90% of shark accidents. While surfing and kayaking had the most frequent shark accidents, diving and swimming led to the most severe injuries having higher number of fatal and major injuries.
+
+Question 3:
+Are there specific counties in California that are more prone to skark incident incidents based on the activity ?
+Based on our findings, we saw that there is a correlation between specific counties that do see an increase in shark incidents based on activity. In Northern California where water temperatures are colder there are an increase of shark incidents, specifically in surfing/ boarding.
